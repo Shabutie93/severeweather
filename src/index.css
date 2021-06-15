@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Cabin Sketch';
+  src: local('Cabin Sketch'), url('./fonts/Cabin_Sketch/CabinSketch-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'), url('./fonts/Montserrat/Montserrat-Light.ttf');
+}
+
+@font-face {
+  font-family: 'NTR';
+  src: local('NTR'), url('./fonts/NTR/NTR-Regular.ttf');
+}

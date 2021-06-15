@@ -1,0 +1,3 @@
+export const ADD_REPORTS = 'ADD_REPORTS';
+export const REPORTS_LOADING = 'REPORTS_LOADING';
+export const REPORTS_FAILED = 'REPORTS_FAILED';
